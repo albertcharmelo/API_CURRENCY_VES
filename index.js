@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const CurrencyRoutes = require("./routes/CurrencyRoutes");
+const CurrencyRoutes = require("./src/routes/CurrencyRoutes");
 
 app.use(cors());
 app.use(bodyParser.json());
