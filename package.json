@@ -18,7 +18,8 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "nodemon": "^2.0.21",
-    "uuidv4": "^6.2.13"
+    "uuidv4": "^6.2.13",
+    "playwright": "^1.31.2"
   },
   "devDependencies": {
     "playwright": "^1.31.2"
